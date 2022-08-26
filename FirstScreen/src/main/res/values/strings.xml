@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Имя:</string>
+    <string name="secondName">Фамилия:</string>
+    <string name="education">Образование:</string>
+    <string name="experience">Опыт:</string>
+    <string name="company_name">Название</string>
+    <string name="position">Позиция:</string>
+</resources>
